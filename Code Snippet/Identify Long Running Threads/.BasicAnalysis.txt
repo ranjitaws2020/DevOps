@@ -1,0 +1,11 @@
+* Run !analyze started
+!analyze v
+* Run !analyze finished
+
+* Listing all runaway threads started
+!runaway
+* Listing all runaway threads finished
+
+* Listing managed threads started
+!threads
+* Listing managed threads finished
